@@ -7,6 +7,10 @@ A ball that bounces around your screen, taking walls into consideration.
 
 <img src="readMeImgBall.jpeg" width="300px">
 
+## Bouncing Ball Project
+
+<a href="https://krjordan02.github.io/Bouncing-Ball/">Bouncing Ball Project</a>
+
 ## Instalation
 
 Simply download the folder to you local machine and open the index.html file.

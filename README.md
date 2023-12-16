@@ -5,6 +5,8 @@ My first assignment with MIT xPro!
 
 A ball that bounces around your screen, taking walls into consideration. 
 
+<img src="readMeImgBall.jpeg" width="300px">
+
 ## Instalation
 
 Simply download the folder to you local machine and open the index.html file.
